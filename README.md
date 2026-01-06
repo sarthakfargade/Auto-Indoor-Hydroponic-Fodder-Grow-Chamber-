@@ -7,7 +7,7 @@ The Auto Indoor Hydroponic Fodder Grow Chamber is an automated indoor system des
 
 #Role & Contribution
 
-Team Lead of a 5-member group
+Team Lead of a 8-member group
 Project conceived, designed, and completed by me with my team
 
 Responsible for:
